@@ -1,5 +1,5 @@
 ## client_id: the value of client_id
-client_id="1234"
+client_id="123"
 
 ## config_banner_text: The text that will appear in the top banner in the cluster
 config_banner_text=""

@@ -8,7 +8,7 @@ region=""
 subscription_id=""
 
 ## client_id: the value of client_id
-client_id="1234"
+client_id="123"
 
 ## client_secret: the value of client_secret
 client_secret=""
